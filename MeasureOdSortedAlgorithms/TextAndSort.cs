@@ -11,7 +11,7 @@ namespace MeasureOdSortedAlgorithms
         public string[] ParseText(string FilePath) //парсим текст
         {
             string text = ReadingText(FilePath);
-            string[] splittedText = text.Split(' ', ',', '.');
+            string[] splittedText = text.Split( new char[] { ' ', ',', '.' }, StringSplitOptions.RemoveEmptyEntries);
             return splittedText;
         }
 

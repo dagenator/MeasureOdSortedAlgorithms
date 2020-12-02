@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30503.244
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MeasureOdSortedAlgorithms", "MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms.csproj", "{BDA3BF65-A6D6-42FD-86AA-54ED8ACF56EE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDA3BF65-A6D6-42FD-86AA-54ED8ACF56EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDA3BF65-A6D6-42FD-86AA-54ED8ACF56EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDA3BF65-A6D6-42FD-86AA-54ED8ACF56EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDA3BF65-A6D6-42FD-86AA-54ED8ACF56EE}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {462C8193-BA67-4318-98E6-A99AD25B6535}
+	EndGlobalSection
+EndGlobal

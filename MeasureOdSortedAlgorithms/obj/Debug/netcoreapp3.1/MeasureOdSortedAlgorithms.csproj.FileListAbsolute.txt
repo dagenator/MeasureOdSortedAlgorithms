@@ -1,0 +1,13 @@
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\bin\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.exe
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\bin\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.deps.json
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\bin\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.runtimeconfig.json
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\bin\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.runtimeconfig.dev.json
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\bin\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.dll
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\bin\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.pdb
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.csprojAssemblyReference.cache
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.AssemblyInfoInputs.cache
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.AssemblyInfo.cs
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.dll
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.pdb
+C:\Users\Admin\source\repos\MeasureOdSortedAlgorithms\MeasureOdSortedAlgorithms\obj\Debug\netcoreapp3.1\MeasureOdSortedAlgorithms.genruntimeconfig.cache
